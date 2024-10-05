@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://alochdal.github.io/sitemap.html.gz
+Sitemap: https://alochdal.github.io/app/sitemap.html.gz
+Sitemap: https://alochdal.github.io/assets/sitemap.html.gz
+Sitemap: https://alochdal.github.io/css/sitemap.html.gz
+Sitemap: https://alochdal.github.io/data/sitemap.html.gz
+Sitemap: https://alochdal.github.io/includes/sitemap.html.gz
+Sitemap: https://alochdal.github.io/item/sitemap.html.gz
+Sitemap: https://alochdal.github.io/src/sitemap.html.gz
